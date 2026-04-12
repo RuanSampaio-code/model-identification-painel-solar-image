@@ -21,3 +21,10 @@ Thumbs.db
 # Data (geralmente grande; recomendo não versionar)
 datasets/images/
 datasets/mask/
+
+solar-panel-segmentation-1/test
+solar-panel-segmentation-1/train
+solar-panel-segmentation-1/valid
+
+#arquivos .pt
+*.pt

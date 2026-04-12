@@ -1,0 +1,16 @@
+names:
+- Photovoltaik
+- Solar-Panels
+- paneles
+- pv
+- solar-panels
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: solar-panel-segmentation-6bnfp
+  url: https://universe.roboflow.com/eqtl/solar-panel-segmentation-6bnfp/dataset/1
+  version: 1
+  workspace: eqtl
+test: ../test/images
+train: ../train/images
+val: ../valid/images
